@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Pitch_Flip" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.Pitch_Flip" parent="Base.Theme.Pitch_Flip" />
+</resources>

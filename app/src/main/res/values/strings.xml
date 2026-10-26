@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Pitch Flip</string>
+    <string name="tails_text">Tails Text</string>
+    <string name="settings">Settings</string>
+    <string name="coin_color">Coin Color</string>
+    <string name="animation_speed">Animation Speed</string>
+    <string name="heads_text">Heads Text</string>
+    <string name="heads">HEADS</string>
+    <string name="tails">TAILS</string>
+    <string name="skin">Skin</string>
+    <string name="skin_text_label">Text</string>
+    <string name="skin_classic_label">Classic</string>
+    <string name="aa">Aa</string>
+    <string name="heads_label">Heads</string>
+    <string name="tails_label">Tails</string>
+    <string name="skin_classic_silver_label">Silver</string>
+    <string name="skin_classic_gold_label">Gold</string>
+    <string name="skin_dog_label">Dog</string>
+    <string name="skin_cat_label">Cat</string>
+    <string name="skin_duck_label">Duck</string>
+    <string name="skin_chicken_label">Chicken</string>
+    <string name="skin_bear_label">Bear</string>
+    <string name="skin_monkey_label">Monkey</string>
+    <string name="rig_mode">Rig</string>
+    <string name="rig_mode_desc">Rig the coin based on volume</string>
+    <string name="skin_image_label">Image</string>
+    <string name="change_image">Change</string>
+    <string name="clear_image">Clear</string>
+</resources>
